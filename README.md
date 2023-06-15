@@ -5,6 +5,7 @@ Python auto-whacker for the game Farmer against potatoes idle
 ## Dependencies
 
 * python 3.10+
+* PyAutoGUI 0.9.54 (and all of its dependencies, as can be seen in `requirements.txt`)
 
 ## Usage
 
